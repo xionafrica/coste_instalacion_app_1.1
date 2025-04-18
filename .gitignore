@@ -1,0 +1,42 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+
+# PyInstaller
+# General build artifacts
+build/
+dist/
+*.spec
+__pyinstaller__/
+
+# Ejecutables generados
+*.exe
+*.app
+*.dmg
+
+# Metadata de paquetes
+*.egg-info/
+*.eggs/
+*.whl
+
+# Configuración del editor
+.vscode/
+.idea/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+# Ignorar archivos Excel
+*.xlsx
+*.xls
